@@ -1,0 +1,291 @@
+{
+  "project_info": {
+    "project_number": "373104800669",
+    "firebase_url": "https://gised-cc928.firebaseio.com",
+    "project_id": "gised-cc928",
+    "storage_bucket": "gised-cc928.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373104800669:android:8fe88e5d16bb457403f574",
+        "android_client_info": {
+          "package_name": "com.NCCU.EdiosnLien"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373104800669-ulipdothp1mfkt7tht2ei5thbpid8j5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.NCCU.EdiosnLien",
+            "certificate_hash": "905349349cc291cbade3e7ee530d92fbddd77413"
+          }
+        },
+        {
+          "client_id": "373104800669-e9uk9eikb7btq447gqk3epin28dp88ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWayQII-zeU9PgtQ4gil9NblqC2BUNv9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373104800669-e9uk9eikb7btq447gqk3epin28dp88ie.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "373104800669-9feo7jvvsi33tl8thdolmh7uklk912du.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nccu.gisproj"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373104800669:android:d51f8dd1023ba18703f574",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_finalmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373104800669-97m23opoup7bv7nf5kb942e44gcfpa6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_app_finalmap",
+            "certificate_hash": "4a32797f59478beaaff9b647f82029b2de7b40ad"
+          }
+        },
+        {
+          "client_id": "373104800669-984veb8df251k5egp6jtr5arncjt6kqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_app_finalmap",
+            "certificate_hash": "905349349cc291cbade3e7ee530d92fbddd77413"
+          }
+        },
+        {
+          "client_id": "373104800669-e9uk9eikb7btq447gqk3epin28dp88ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWayQII-zeU9PgtQ4gil9NblqC2BUNv9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373104800669-e9uk9eikb7btq447gqk3epin28dp88ie.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "373104800669-9feo7jvvsi33tl8thdolmh7uklk912du.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nccu.gisproj"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373104800669:android:5d1c74b5fffb1e9103f574",
+        "android_client_info": {
+          "package_name": "com.example.gis_v1_0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373104800669-fteb6on7bops825qju78csnj93sm4rk3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gis_v1_0",
+            "certificate_hash": "905349349cc291cbade3e7ee530d92fbddd77413"
+          }
+        },
+        {
+          "client_id": "373104800669-e9uk9eikb7btq447gqk3epin28dp88ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWayQII-zeU9PgtQ4gil9NblqC2BUNv9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373104800669-e9uk9eikb7btq447gqk3epin28dp88ie.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "373104800669-9feo7jvvsi33tl8thdolmh7uklk912du.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nccu.gisproj"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373104800669:android:c2861f33c580982f03f574",
+        "android_client_info": {
+          "package_name": "com.example.gisappfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373104800669-kj57gmnelqv9hn29a71lbd5j4agptj8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gisappfinal",
+            "certificate_hash": "4a32797f59478beaaff9b647f82029b2de7b40ad"
+          }
+        },
+        {
+          "client_id": "373104800669-e9uk9eikb7btq447gqk3epin28dp88ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWayQII-zeU9PgtQ4gil9NblqC2BUNv9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373104800669-e9uk9eikb7btq447gqk3epin28dp88ie.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "373104800669-9feo7jvvsi33tl8thdolmh7uklk912du.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nccu.gisproj"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373104800669:android:af97c69cbe6029cf03f574",
+        "android_client_info": {
+          "package_name": "com.example.gisproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373104800669-f41q9hvenrg4khhqmlbmm32bar44e2fs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gisproj",
+            "certificate_hash": "d63a887c028daf46999a4e892f0bd5e3ba926476"
+          }
+        },
+        {
+          "client_id": "373104800669-e9uk9eikb7btq447gqk3epin28dp88ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWayQII-zeU9PgtQ4gil9NblqC2BUNv9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373104800669-e9uk9eikb7btq447gqk3epin28dp88ie.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "373104800669-9feo7jvvsi33tl8thdolmh7uklk912du.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nccu.gisproj"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373104800669:android:f10ba0388bd722f203f574",
+        "android_client_info": {
+          "package_name": "com.example.storageexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373104800669-5o3s872npd85b018e0p5llii897hqce7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.storageexample",
+            "certificate_hash": "4a32797f59478beaaff9b647f82029b2de7b40ad"
+          }
+        },
+        {
+          "client_id": "373104800669-hi5s8ndo976rs0e4h74pbvehln668ppq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.storageexample",
+            "certificate_hash": "905349349cc291cbade3e7ee530d92fbddd77413"
+          }
+        },
+        {
+          "client_id": "373104800669-e9uk9eikb7btq447gqk3epin28dp88ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWayQII-zeU9PgtQ4gil9NblqC2BUNv9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373104800669-e9uk9eikb7btq447gqk3epin28dp88ie.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "373104800669-9feo7jvvsi33tl8thdolmh7uklk912du.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nccu.gisproj"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
